@@ -2,8 +2,9 @@ cost, card, quantity
 0, "Innervate", 2
 1, "Jade Idol", 2
 1, "Living Roots", 2
+1, "Mistress of Mixtures", 2
 1, "Raven Idol", 2
-2, "Wild Growth", 2
+2, "Doomsayer", 2
 2, "Wrath", 2
 3, "Feral Rage", 2
 3, "Jade Blossom", 2
@@ -13,6 +14,5 @@ cost, card, quantity
 5, "Nourish", 2
 6, "Aya Blackpaw", 1
 6, "Emperor Thaurissan", 1
-6, "Gadgetzan Auctioneer", 2
-10, "Yogg-Saron, Hope's End", 1
+6, "Gadgetzan Auctioneer", 1
 12, "Arcane Giant", 2
