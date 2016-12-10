@@ -1,15 +1,16 @@
 # Hearthstone Decks
 ##[Jade/Yogg Druid](jade-druid.csv)
 #### Potential cards
+* Acidic Swamp Ooze
 * Big Game Hunter
-* **Doomsayer**
 * Druid of the Claw
+* Harrison Jones
 * Jade Behemoth
+* Jade Spirit
 * Mire Keeper
-* **Mulch**
-* Ragnaros the Firelord
+* Mulch
 * Starfall
-* Sylvanas Windrunner
+* Wild Growth
 
 #### Other archetypes
 * **Mill:** Brann Bronzebeard, Coldlight Oracle, Daring Reporter, Moonglade Portal, Naturalize
