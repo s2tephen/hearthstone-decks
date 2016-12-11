@@ -2,15 +2,16 @@ cost, card, quantity
 0, "Innervate", 2
 1, "Jade Idol", 2
 1, "Living Roots", 2
-1, "Mistress of Mixtures", 1
 1, "Raven Idol", 2
+2, "Acidic Swamp Ooze", 1
 2, "Doomsayer", 2
 2, "Wrath", 2
 3, "Feral Rage", 2
 3, "Jade Blossom", 2
 4, "Fandral Staghelm", 1
 4, "Swipe", 2
-5, "Azure Drake", 2
+5, "Azure Drake", 1
+5, "Harrison Jones", 1
 5, "Nourish", 2
 6, "Aya Blackpaw", 1
 6, "Emperor Thaurissan", 1
