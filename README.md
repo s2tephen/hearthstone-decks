@@ -1,5 +1,5 @@
 # Hearthstone Decks
-##[Jade/Yogg Druid](jade-druid.csv)
+## [Jade/Yogg Druid](jade-druid.csv)
 #### Potential cards
 * Big Game Hunter
 * Druid of the Claw
@@ -15,7 +15,7 @@
 * **Mill:** Brann Bronzebeard, Coldlight Oracle, Daring Reporter, Moonglade Portal, Naturalize
 * **Token:** Cenarius, Power of the Wild, Savage Roar, Violet Teacher, Wisps of the Old Gods
 
-##[Jade/Tempo Rogue](jade-rogue.csv)
+## [Jade/Tempo Rogue](jade-rogue.csv)
 #### Potential cards
 * Argent Commander
 * Argent Horserider
@@ -30,3 +30,13 @@
 
 #### Other archetypes
 * **N'Zoth:** Cairne Bloodhoof, Sylvanas Windrunner, N'Zoth, the Corruptor
+
+## [Reno Mage](reno-mage.csv)
+#### Potential cards
+* Acolyte of Pain
+* Arcane Blast
+* Archmage Antonidas
+* Cult Sorcerer
+* Harrison Jones
+* Inkmaster Solia
+* Loot Hoarder
